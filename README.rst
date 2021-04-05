@@ -13,6 +13,9 @@ Encryption Error
 .. image:: https://img.shields.io/pypi/l/simplebot_encryption_error.svg
    :target: https://pypi.org/project/simplebot_encryption_error
 
+.. image:: https://github.com/simplebot-org/simplebot_encryption_error/actions/workflows/python-ci.yml/badge.svg
+   :target: https://github.com/simplebot-org/simplebot_encryption_error/actions/workflows/python-ci.yml
+
 .. image:: https://img.shields.io/badge/code%20style-black-000000.svg
    :target: https://github.com/psf/black
 
